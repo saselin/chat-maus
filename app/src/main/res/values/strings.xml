@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidChat</string>
+    <string name="new_message_hint">Neue Nachricht</string>
+
+    <!--  diese Angaben werden im Anwendungs-"Gerüst" verwendet, das Eclipse generiert  -->
+    <string name="menu_settings"></string>
+    <string name="title_activity_main">Android Chat</string>
+    <string name="hello_world">Hello Android!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
